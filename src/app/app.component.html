@@ -1,0 +1,7 @@
+<h2>GC People</h2>
+
+<wj-flex-grid #grid [itemsSource]="data">
+  <wj-flex-grid-column [header]="'Person'" [binding]="'person'"></wj-flex-grid-column>
+  <wj-flex-grid-column [header]="'Age'" [binding]="'age'"></wj-flex-grid-column>
+  <wj-flex-grid-column [header]="'Salary'" [binding]="'salary'" [format]="'n0'"></wj-flex-grid-column>
+</wj-flex-grid>
