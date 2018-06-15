@@ -43,7 +43,7 @@
       rxjs: {
         defaultExtension: 'js'
       },
-      'wijmo': {
+      wijmo: {
         defaultExtension: 'js',
         main: 'wijmo.js',
       }
