@@ -1,1 +1,1 @@
-# Demo Wijmo FlexGrid control with Angular2
+## Demo Wijmo FlexGrid control with Angular2
